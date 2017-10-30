@@ -1,0 +1,33 @@
+{
+  "name": "cordova-plugin-ga",
+  "version": "1.4.0",
+  "description": "Google Universal Analytics Cordova Plugin",
+  "scripts": {
+    "version": "sync-package-version --cordova-plugin"
+  },
+  "devDependencies": {
+    "sync-package-version": "0.0.3"
+  },
+  "cordova": {
+    "id": "cordova-plugin-ga",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": "ratson/cordova-plugin-ga",
+  "keywords": [
+    "cordova",
+    "ga",
+    "googleanalytics",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "analytics",
+    "google",
+    "universal",
+    "universalanalytics"
+  ],
+  "author": "Ratson",
+  "license": "MIT"
+}
